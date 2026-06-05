@@ -13,7 +13,7 @@
     
 }
 html{
-    font-family: sans-serif;
+    font-family:'Inter', sans-serif;
 }
 
 body{
@@ -92,6 +92,7 @@ ul> li>a:hover{
     
     background-color: var(--green-color);
     color: var(--gray-900-color);
+    cursor:pointer;
 }
 @media (min-width:440px){
     .container__content{
